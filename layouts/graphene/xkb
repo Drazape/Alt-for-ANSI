@@ -66,6 +66,8 @@ xkb_symbols "graphene" {
 
 
     // -- Modifier Cluster --
+    replace key <SPCE> { [ space, thinspace, nobreakspace, U202F ] };
+
     // — Left —
     // - three-way swap -
 

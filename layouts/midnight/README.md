@@ -5,17 +5,18 @@
 
 # Features added
 - **Mods**
-    * Angle (first & bottom row)
-    * Wide
-    * Sticky (one-shot) shift
+	* Angle (first & bottom row)
+	* Wide
+	* Sticky (one-shot) shift
 - **Swaps**
-    * *BackSpace* ⟷ *Lock* (Base: *Shift*)
-    * **Mods**: The position of mods are significantly changed, which can be reviewed better using the [preview](#preview)
+	* *BackSpace* ⟷ *Lock* (Base: *Shift*)
+	* **Mods**: The position of mods are significantly changed, which can be reviewed better using the [preview](#preview)
 - 3rd Layer
-    * [***Arensito* symbol layer**](https://www.pvv.org/~hakonhal/main.cgi/keyboard "The homepage for the *Arensito* layout"): Improved and highly optimised
-        - Navigation support
-        - More symbols
+	* [***Arensito* symbol layer**](https://www.pvv.org/~hakonhal/main.cgi/keyboard "The homepage for the *Arensito* layout"): Improved and highly optimised
+		- Navigation support
+		- More symbols
 - Non-standard symbols on top row
+- Space key variants (thin, non-breaking) on layers
 
 --- 
 
@@ -43,7 +44,7 @@ The top row is made keeping stretches in mind
 | Tab | Q\|B | F | L | K |  | Menu | P | G | O | U |  | ~ |  |
 | BackSpace | N | S | H | T | M | **Sticky Shift** | Y | C | A | E | I | ⸮ | |
 |  | X | V | J | D | Z | Home | End | " | W | > | _ | < |  |
-| Back | Alt |  |  |  |  |  | Space | AltGr | Super |  |  | Forward |  |
+| Back | Alt |  |  |  |  |  | Thin Space | AltGr | Super |  |  | Forward |  |
 
 ### Symbol (AltGr)
 |  |  |  | Control | } |  |  |  |  | ] | Control | ) |  |  |
@@ -51,7 +52,7 @@ The top row is made keeping stretches in mind
 | Tab | !\|@ | {} | [] | = |  | Menu | ^ | # | () | $ | ` |  |  |
 | Delete | 1 | ; | Enter | 0 | & | Sticky Shift | \\ | Left | Up | Down | Right | ← |  |
 |  | 2 | 3 | 4 | 5 | + | Page Up | Page Down | * | 6 | 7 | 8 | 9 |  |
-| Back | Alt |  |  |  |  |  | Space | **AltGr** | Super |  |  | Forward |  |
+| Back | Alt |  |  |  |  |  | Non-breaking Space | **AltGr** | Super |  |  | Forward |  |
 
 # Unusual things
 ### Unusual brackets

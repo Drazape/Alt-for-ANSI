@@ -7,15 +7,18 @@ keyboard layouts, that are implementations of the 2 highest rated keyboard layou
 
 # **Common** Features added
 - **Mods**
-    * Angle (first & bottom row)
-    * Wide
-    * Sticky (one-shot) shift
+	* Angle (first & bottom row)
+	* Wide
+	* Sticky (one-shot) shift
 - **Swap**: *Caps Lock* ↔ *BackSpace*
 - Layers
-    * **[*Arensito* symbol layer](https://www.pvv.org/~hakonhal/main.cgi/keyboard "The homepage for the *Arensito* layout")**: Improved and highly optimised for the implementations
-        - Navigation support
-        - More symbols
+	* **[*Arensito* symbol layer](https://www.pvv.org/~hakonhal/main.cgi/keyboard "The homepage for the *Arensito* layout")**: Improved and highly optimised for the implementations
+		- Navigation support
+		- More symbols
 - Non-standard symbols on top row
+- Space key variants
+	* Thin
+	* Non-breaking
 
 ---
 

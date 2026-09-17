@@ -5,18 +5,19 @@
 
 # Features added
 - **Mods**
-    * Angle (first & bottom row)
-    * Wide
-    * Sticky (one-shot) shift
+	* Angle (first & bottom row)
+	* Wide
+	* Sticky (one-shot) shift
 - **Swaps**
-    * *Caps Lock* ⟷ *Lock* (Base: *Shift*)
-    * **Mods**: The position of mods are significantly changed, which can be reviewed better using the [preview](#preview)
+	* *Caps Lock* ⟷ *Lock* (Base: *Shift*)
+	* **Mods**: The position of mods are significantly changed, which can be reviewed better using the [preview](#preview)
 - 3rd Layer
-    * [***Arensito* symbol layer**](https://www.pvv.org/~hakonhal/main.cgi/keyboard "The homepage for the *Arensito* layout"): Improved and highly optimised for [*Graphite*][graphite]
-        - Navigation support
-        - More symbols
+	* [***Arensito* symbol layer**](https://www.pvv.org/~hakonhal/main.cgi/keyboard "The homepage for the *Arensito* layout"): Improved and highly optimised for [*Graphite*][graphite]
+		- Navigation support
+		- More symbols
 - Non-standard symbols on top row
 - Minor optimisations in the layout for these improvements
+- Space key variant (thin, non-breaking) on different layers
 
 ---
 
@@ -47,7 +48,7 @@ The top row is made keeping stretches in mind
 | <font color="#98FB98">Tab</font> | <font color="#98FB98">Z\|B</font> | <font color="#ADD8E6">L</font> | <font color="#FFC0CB">D</font> | <font color="#FFDAB9">W</font> | | <font color="#FFDAB9"></font> | <font color="#E6E6FA">"</font> | <font color="#E6E6FA">F</font> | <font color="#FFC0CB">O</font> | <font color="#ADD8E6">U</font> | <font color="#98FB98">J</font> | <font color="#98FB98">~</font> | |
 | <font color="#98FB98">BackSpace</font> | <font color="#98FB98">N</font> | <font color="#ADD8E6">R</font> | <font color="#FFC0CB">T</font> | <font color="#FFDAB9">S</font> | <font color="#FFDAB9">G</font> | <font color="#FFA07A"></font> | <font color="#E6E6FA">Y</font> | <font color="#E6E6FA">H</font> | <font color="#FFC0CB">A</font> | <font color="#ADD8E6">E</font> | <font color="#98FB98">I</font> | <font color="#98FB98">?</font> | |
 | | <font color="#98FB98">Ctrl</font> | <font color="#ADD8E6">X</font> | <font color="#FFC0CB">M</font> | <font color="#FFDAB9">C</font> | <font color="#FFDAB9">Q\|V</font> | <font color="#FFDAB9">Page Down</font> | <font color="#E6E6FA">K</font> | <font color="#E6E6FA">P</font> | <font color="#E6E6FA">></font> | <font color="#FFC0CB">_</font> | <font color="#ADD8E6"><</font> | | |
-| | <font color="#FFFFFF">Super</font> | <font color="#FFFFFF">**Sticky Shift**</font> | | | | | <font color="#FFFFFF">Space</font> | <font color="#FFFFFF">AltGr</font> | | | | | |
+| | <font color="#FFFFFF">Super</font> | <font color="#FFFFFF">**Sticky Shift**</font> | | | | | <font color="#FFFFFF">Thin Space</font> | <font color="#FFFFFF">AltGr</font> | | | | | |
 
 ### Symbol (AltGr)
 | <font color="#98FB98">Shift (Right)</font> | | | <font color="#ADD8E6">Alt</font> | <font color="#ADD8E6">}</font> | | | | | <font color="#FFC0CB">]</font> | <font color="#ADD8E6">Alt</font> | <font color="#ADD8E6">)</font> | <font color="#98FB98">Caps_Lock</font> | |
@@ -55,7 +56,7 @@ The top row is made keeping stretches in mind
 | <font color="#98FB98">Tab</font> | <font color="#98FB98">!\|@</font> | <font color="#ADD8E6">{</font> | <font color="#FFC0CB">[</font> | <font color="#FFDAB9">=</font> | | <font color="#FFDAB9">Insert</font> | <font color="#E6E6FA">^</font> | <font color="#E6E6FA">#</font> | <font color="#FFC0CB">(</font> | <font color="#ADD8E6">$</font> | <font color="#98FB98">`</font> | | |
 | <font color="#98FB98">Delete</font> | <font color="#98FB98">1</font> | <font color="#ADD8E6">;</font> | <font color="#FFC0CB">Return</font> | <font color="#FFDAB9">0</font> | <font color="#FFDAB9">&</font> | <font color="#FFA07A">Page Up</font> | <font color="#E6E6FA">\\</font> | <font color="#E6E6FA">Left</font> | <font color="#FFC0CB">Up</font> | <font color="#ADD8E6">Down</font> | <font color="#98FB98">Right</font> | | |
 | | <font color="#98FB98">Ctrl</font> | <font color="#ADD8E6">2</font> | <font color="#FFC0CB">3</font> | <font color="#FFDAB9">4</font> | <font color="#FFDAB9">5\|+</font> | | <font color="#E6E6FA">*</font> | <font color="#E6E6FA">6</font> | <font color="#E6E6FA">7</font> | <font color="#FFC0CB">8</font> | <font color="#ADD8E6">9</font> | | |
-| | <font color="#FFFFFF">Super</font> | <font color="#FFFFFF">Sticky Shift</font> | | | | | <font color="#FFFFFF">Space</font> | <font color="#FFFFFF">**AltGr**</font> | | | | | |
+| | <font color="#FFFFFF">Super</font> | <font color="#FFFFFF">Sticky Shift</font> | | | | | <font color="#FFFFFF">Non-breaking Space</font> | <font color="#FFFFFF">**AltGr**</font> | | | | | |
 
 # Unusual things
 ### Unusual brackets
