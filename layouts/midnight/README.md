@@ -44,7 +44,7 @@ The top row is made keeping stretches in mind
 | Tab | Q\|B | F | L | K |  | Menu | P | G | O | U |  | ~ |  |
 | BackSpace | N | S | H | T | M | **Sticky Shift** | Y | C | A | E | I | ⸮ | |
 |  | X | V | J | D | Z | Home | End | " | W | > | _ | < |  |
-| Back | Alt |  |  |  |  |  | Thin Space | AltGr | Super |  |  | Forward |  |
+| Back | Alt |  |  |  |  |  | Non-breaking Space | AltGr | Super |  |  | Forward |  |
 
 ### Symbol (AltGr)
 |  |  |  | Control | } |  |  |  |  | ] | Control | ) |  |  |
@@ -52,7 +52,7 @@ The top row is made keeping stretches in mind
 | Tab | !\|@ | {} | [] | = |  | Menu | ^ | # | () | $ | ` |  |  |
 | Delete | 1 | ; | Enter | 0 | & | Sticky Shift | \\ | Left | Up | Down | Right | ← |  |
 |  | 2 | 3 | 4 | 5 | + | Page Up | Page Down | * | 6 | 7 | 8 | 9 |  |
-| Back | Alt |  |  |  |  |  | Non-breaking Space | **AltGr** | Super |  |  | Forward |  |
+| Back | Alt |  |  |  |  |  | Space | **AltGr** | Super |  |  | Forward |  |
 
 # Unusual things
 ### Unusual brackets

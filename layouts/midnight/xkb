@@ -73,7 +73,7 @@ xkb_symbols "midnight" {
     // -- Bottom-Cluster --
 
     replace key <LALT> { [ r, R ] }; // R on left thumb
-    replace key <SPCE> { [ space, thinspace, nobreakspace, U202F ] };
+    replace key <SPCE> { [ space, nobreakspace, space, thinspace ] };
 
     // — Modifiers —
 
